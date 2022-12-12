@@ -9,4 +9,5 @@ def main() :
     st.title ('헬로우')
     st.title ('개발 프로젝트')
 if __name__ == '__main__' :
+    print(__name__)
     main()
